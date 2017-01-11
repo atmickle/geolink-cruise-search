@@ -14,7 +14,7 @@ By talking to each other, we have a much better picture of our data in the conte
 *Contributed by Doug Fils, Adam Shepherd, and Audrey Mickle*
 
 Download this repo include the following in your page HTML. 
-Note: This script needs to run after the identifying tag appears, in this case, the ~~~<meta>~~~ tag.
+Note: This script needs to run after the identifying tag appears, in this case, the meta tag.
 
 ~~~~
 <head>
